@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="backing_vocals" size="5.000000 4.963235" />
+    <ImageTarget name="vocals" size="5.000000 4.963099" />
+    <ImageTarget name="drums" size="5.000000 5.000000" />
+    <ImageTarget name="piano" size="5.000000 4.981343" />
+    <ImageTarget name="bass" size="5.000000 5.000000" />
+    <ImageTarget name="guitar" size="5.000000 4.981482" />
+  </Tracking>
+</QCARConfig>
